@@ -12,12 +12,11 @@ The workshop is designed for wide audience of industrial and academic participan
 We are soliciting participants to present their work at the workshop. We are 
 looking for (but are not limited to) the following types of talks:
 
-1. Design, implementation, and evaluation of **novel industrial use cases**
-2. **Adoption roadmap**, technical and non-technical barriers for commercial usage of blockchains
-3. **System research and development**
+1. Presentation of **novel industrial use cases**
+2. **Adoption roadmap**, technical and non-technical barriers
+3. **System** research and development
 4. **Vision/blue-sky** topics or position papers
-5. **Non-technical commercial aspects** related to blockchains (e.g. 
-   cryptocurrency mining, exchanges, etc.)
+5. Other **industrial** aspects (e.g. mining, exchanges, ...)
 
 ## Topics (not limited to this list)
 1. Cryptography mechanisms for blockchains
