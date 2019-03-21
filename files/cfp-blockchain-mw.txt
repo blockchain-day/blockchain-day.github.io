@@ -1,0 +1,52 @@
+Call for participation
+
+Blockchain industry day @ Middleware'19: First International Blockchain Industry Day on Blockchains
+and Distributed Ledger Technologies @ ACM Middleware 2019. 
+
+Davis, USA. December 8, 2019
+https://blockchain-day.github.io/
+
+OBJECTIVES:
+
+The objective of this one-day workshop is to connect blockchain professionals with academic
+researchers and discuss the state-of-the-art in the industrial and commercial deployment of
+blockchain systems and DLTs. Furthermore, this workshop will also examine the latest innovations in
+blockchain research, and challenges to address in order to improve the usability and adoption of
+blockchains.
+
+The workshop is designed for wide audience of industrial and academic participants, with varying
+familiarity with blockchain technologies. The workshop will feature a combination of industry
+keynotes and talks, as well as discussion panels. Furthermore, the talks will range from
+applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
+
+STRUCTURE:
+
+We are soliciting participants to present their work at the workshop. We are 
+looking for (but are not limited to) the following types of talks:
+
+1) Presentations on the design, implementation, and evaluation of novel use
+cases and decentralized applications for blockchains in an industrial context
+2) Presentations on adoption roadmap, technical and non-technical barriers for commercial usage of
+blockchains
+3) Presentations on system research and development
+4) Presentations of vision/blue-sky topics or position papers
+5) Presentations on non-technical commercial aspects related to blockchains (e.g. 
+cryptocurrency mining, exchanges, etc.)
+
+TOPICS OF INTEREST (not limited to):
+
+Cryptography mechanisms for blockchains
+Application domains for blockchains (e.g., eHealth, IoT, supply chains, real estate, etc.)
+Scalability and performance of blockchain systems
+Security, privacy, and trust in blockchains
+Consensus mechanisms (e.g., Proof-of-work, Proof-of-stake, PBFT, Merkle DAG, etc.)
+On-going research in popular blockchain systems (e.g. Ethereum, Hyperledger, etc.)
+Layer 2 and off-chain solutions (e.g., State channels, Plasma)
+Smart contract languages, modeling, and verification
+Theory, cryptoeconomy, and attacks of blockchain systems
+
+SUBMISSION INFORMATION:
+
+Please submit an abstract and speaker biography to the workshop chair: kaiwen.zhang@etsmtl.ca.
+
+The submission deadline is: October 31st, 2019.
