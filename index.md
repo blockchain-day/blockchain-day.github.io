@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+![UCDavis](images/ucdavis.jpg) 
 
-You can use the [editor on GitHub](https://github.com/blockchain-day/blockchain-day.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the first industry day on Blockchains and Distributed Ledger Technologies (DLTs) @ [ACM Middleware](http://2019.middleware-conference.org/), on December 8th, 2019 in Davis, USA! The event is hosted at the [University of California, Davis](https://www.ucdavis.edu/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Objectives
 
-### Markdown
+The objective of this one-day workshop is to connect blockchain professionals with academic researchers and discuss the state-of-the-art in the industrial and commercial deployment of blockchain systems and DLTs. Furthermore, this workshop will also examine the latest innovations in blockchain research, and challenges to address in order to improve the usability and adoption of blockchains.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The workshop is designed for wide audience of industrial and academic participants, with varying familiarity with blockchain technologies. The workshop will feature a combination of industry keynotes and talks, as well as discussion panels. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
-```markdown
-Syntax highlighted code block
+## Structure
+We are soliciting participants to present their work at the workshop. We are 
+looking for (but are not limited to) the following types of talks:
 
-# Header 1
-## Header 2
-### Header 3
+1. Design, implementation, and evaluation of **novel industrial use cases**
+2. **Adoption roadmap**, technical and non-technical barriers for commercial usage of blockchains
+3. **System research and development**
+4. **Vision/blue-sky** topics or position papers
+5. **Non-technical commercial aspects** related to blockchains (e.g. 
+   cryptocurrency mining, exchanges, etc.)
 
-- Bulleted
-- List
+## Topics (not limited to this list)
+1. Cryptography mechanisms for blockchains
+2. Application domains for blockchains (e.g., eHealth, IoT, supply chains, real estate, etc.)
+3. Scalability and performance of blockchain systems
+4. Security, privacy, and trust in blockchains
+5. Consensus mechanisms (e.g., Proof-of-work, Proof-of-stake, PBFT, Merkle DAG, etc.)
+6. On-going research in popular blockchain systems (e.g. Ethereum, Hyperledger, etc.)
+7. Layer 2 and off-chain solutions (e.g., State channels, Plasma)
+8. Smart contract languages, modeling, and verification
+9. Theory, cryptoeconomy, and attacks of blockchain systems
 
-1. Numbered
-2. List
+## Organisation
+Chair: [Kaiwen Zhang](https://fuseelab.github.io/), [École de technologie supérieure](https://www.etsmtl.ca/Bottin/ETS/MotCle/FicheEmploye?Numero=6866), Montréal (Canada)
 
-**Bold** and _Italic_ and `Code` text
+### Steering committee
+- [Robbert van Renesse](https://www.cs.cornell.edu/home/rvr/), [Cornell University](https://www.cornell.edu/), Ithaca (USA)
+- [Chandrasekaran Mohan](https://researcher.watson.ibm.com/researcher/view.php?person=us-cmohan), [IBM Almaden Research Center](http://almaden.ibm.com/almaden/welcome.html), San Jose (USA)
+- [Sonia Ben Mokhtar](https://sites.google.com/site/soniabm/), [Centre national de la recherche scientifique (CNRS)](https://liris.cnrs.fr/), Lyon (France)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blockchain-day/blockchain-day.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Submission Information
+Please submit an abstract and speaker biography to the workshop chair: [kaiwen.zhang@etsmtl.ca](mailto:kaiwen.zhang@etsmtl.ca).<br/>
+The submission deadline is: **October 31st, 2019**.
