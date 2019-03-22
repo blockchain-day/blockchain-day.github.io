@@ -4,12 +4,12 @@ Welcome to the first industry day on Blockchains and Distributed Ledger Technolo
 
 ## Objectives
 
-The objective of this one-day workshop is to connect blockchain professionals with academic researchers and discuss the state-of-the-art in the industrial and commercial deployment of blockchain systems and DLTs. Furthermore, this workshop will also examine the latest innovations in blockchain research, and challenges to address in order to improve the usability and adoption of blockchains.
+The objective of this one-day event is to connect blockchain professionals with academic researchers and discuss the state-of-the-art in the industrial and commercial deployment of blockchain systems and DLTs. Furthermore, this event will also examine the latest innovations in blockchain research, and challenges to address in order to improve the usability and adoption of blockchains.
 
-The workshop is designed for wide audience of industrial and academic participants, with varying familiarity with blockchain technologies. The workshop will feature a combination of industry keynotes and talks, as well as discussion panels. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
+The event is designed for wide audience of industrial and academic participants, with varying familiarity with blockchain technologies. The event will feature a combination of industry keynotes and talks, as well as discussion panels. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
 ## Structure
-We are soliciting participants to present their work at the workshop. We are 
+We are soliciting participants to present their work at the event. We are 
 looking for (but are not limited to) the following types of talks:
 
 1. Presentation of **novel industrial use cases**
@@ -38,5 +38,5 @@ Chair: [Kaiwen Zhang](https://fuseelab.github.io/), [École de technologie supé
 - [Sonia Ben Mokhtar](https://sites.google.com/site/soniabm/), [Centre national de la recherche scientifique (CNRS)](https://liris.cnrs.fr/), Lyon (France)
 
 ## Submission Information
-Please submit an abstract and speaker biography to the workshop chair: [kaiwen.zhang@etsmtl.ca](mailto:kaiwen.zhang@etsmtl.ca).<br/>
+Please submit an abstract and speaker biography to the event chair: [kaiwen.zhang@etsmtl.ca](mailto:kaiwen.zhang@etsmtl.ca).<br/>
 The submission deadline is: **October 31st, 2019**.
