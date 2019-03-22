@@ -8,20 +8,20 @@ https://blockchain-day.github.io/
 
 OBJECTIVES:
 
-The objective of this one-day workshop is to connect blockchain professionals with academic
+The objective of this one-day event is to connect blockchain professionals with academic
 researchers and discuss the state-of-the-art in the industrial and commercial deployment of
-blockchain systems and DLTs. Furthermore, this workshop will also examine the latest innovations in
+blockchain systems and DLTs. Furthermore, this event will also examine the latest innovations in
 blockchain research, and challenges to address in order to improve the usability and adoption of
 blockchains.
 
-The workshop is designed for wide audience of industrial and academic participants, with varying
-familiarity with blockchain technologies. The workshop will feature a combination of industry
+The event is designed for wide audience of industrial and academic participants, with varying
+familiarity with blockchain technologies. The event will feature a combination of industry
 keynotes and talks, as well as discussion panels. Furthermore, the talks will range from
 applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
 STRUCTURE:
 
-We are soliciting participants to present their work at the workshop. We are 
+We are soliciting participants to present their work at the event. We are 
 looking for (but are not limited to) the following types of talks:
 
 1) Presentations on the design, implementation, and evaluation of novel use
@@ -47,6 +47,6 @@ Theory, cryptoeconomy, and attacks of blockchain systems
 
 SUBMISSION INFORMATION:
 
-Please submit an abstract and speaker biography to the workshop chair: kaiwen.zhang@etsmtl.ca.
+Please submit an abstract and speaker biography to the event chair: kaiwen.zhang@etsmtl.ca.
 
 The submission deadline is: October 31st, 2019.
