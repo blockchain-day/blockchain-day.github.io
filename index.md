@@ -39,4 +39,4 @@ Chair: [Kaiwen Zhang](https://fuseelab.github.io/), [École de technologie supé
 
 ## Submission Information
 Please submit an abstract and speaker biography to the event chair: [kaiwen.zhang@etsmtl.ca](mailto:kaiwen.zhang@etsmtl.ca).<br/>
-The submission deadline is: **October 31st, 2019**.
+The submission deadline is: **August 31st, 2019**.
