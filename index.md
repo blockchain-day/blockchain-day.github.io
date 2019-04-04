@@ -1,6 +1,6 @@
 ![UCDavis](images/ucdavis.jpg) 
 
-Welcome to the first industry day on Blockchains and Distributed Ledger Technologies (DLTs) @ [ACM Middleware](http://2019.middleware-conference.org/), on December 8th, 2019 in Davis, USA! The event is hosted at the [University of California, Davis](https://www.ucdavis.edu/).
+Welcome to the industry day on Blockchains and Distributed Ledger Technologies (DLTs) @ [ACM Middleware](http://2019.middleware-conference.org/), on December 8th, 2019 in Davis, USA! The event is hosted at the [University of California, Davis](https://www.ucdavis.edu/).
 
 ## Objectives
 
