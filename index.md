@@ -8,7 +8,7 @@ The objective of this one-day event is to discuss the state-of-the-art in the in
 
 The event is designed primarily for an audience of industrial participants who are invested in the blockchain technologies. The event will feature a combination of ***industry keynotes*** and talks, as well as ***discussion panels***. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
-## Structure
+## Call for participation
 We are soliciting participants to present their work at the event. We are 
 looking for (but are not limited to) the following types of talks:
 
