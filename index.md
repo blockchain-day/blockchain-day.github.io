@@ -6,7 +6,7 @@ Welcome to the industry day on Blockchains and Distributed Ledger Technologies (
 
 The objective of this one-day event is to discuss the state-of-the-art in the industrial and commercial deployment of blockchain systems and DLTs. Furthermore, this event will also examine the latest innovations in blockchain research, and challenges to address in order to improve the usability and adoption of blockchains.
 
-The event is designed for wide audience of industrial and academic participants, with varying familiarity with blockchain technologies. The event will feature a combination of ***industry keynotes*** and talks, as well as ***discussion panels***. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
+The event is designed primarily for an audience of industrial participants who are invested in the blockchain technologies. The event will feature a combination of ***industry keynotes*** and talks, as well as ***discussion panels***. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
 ## Structure
 We are soliciting participants to present their work at the event. We are 
